@@ -1,0 +1,34 @@
+Html: html4/html5
+css: core/bootstrap
+js:core/jquery
+
+HTML: hyper text markup lang.
+
+ Dom(data object Module)
+		top to down and lef to right 
+		
+html  4 ==> 5
+
+
+basic Str.
+
+
+
+	Tag:markup
+		Single  :<TagName/>
+			Ex. </> </br>
+	            <img src="" />
+				
+		Pair Tag:<TagName>Content </TagName>
+				Ex: <>  </>
+					<html>  Hello </html>
+					<body>Student </body>
+					
+		element: a complet tag is called element			
+						
+						
+Tools : Text editor
+		any Browser (Chrome/mozila)
+
+how to use/write 
+		
